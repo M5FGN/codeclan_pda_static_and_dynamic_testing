@@ -37,6 +37,7 @@ class CardGame:
 
 # Total has no value
 # Incorrect indent
+# total is an int and needs to be a string
 def cards_total(self, cards):
   total
   for card in cards:
